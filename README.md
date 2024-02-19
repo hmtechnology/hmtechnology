@@ -15,11 +15,13 @@ I'm hmtechnology, a passionate Web Developer with a deep love for technology and
 
 Here are some of the projects you'll find in this repository:
 
-- **Project 1:** WooCommerce Store Hours Checker: A plugin that allows administrators to configure store hours and provides a way to customize the error message and styles shown to customers when they attempt to check out outside of store hours 
-- **Project 2:** WooCommerce Weekday Product Display: A function that customizes product display based on the day of the week and hides the 'Add to Cart' button for products not available on the current day 
-- **Project 3:** Delete Post Attachments WordPress: A WordPress function to automatically delete all attachments and featured image when a post is permanently deleted.
-- **Project 4:** CTA After Blog Post: A function that add a Call to Action (CTA) section after a blog post. It allows to promote a specific page or action to your readers by displaying a well-designed CTA container with a title, description, and a prominent button. 
-
+- **WooCommerce Store Hours Checker**: A plugin that allows administrators to configure store hours and provides a way to customize the error message and styles shown to customers when they attempt to check out outside of store hours 
+- **WooCommerce Weekday Product Display**: A function that customizes product display based on the day of the week and hides the 'Add to Cart' button for products not available on the current day 
+- **Regioni Province Comuni for CF7 WordPress Plugin**: A function that allows you to seamlessly integrate dynamic selection of Italian regions, provinces, and comuni into your Contact Form 7 (CF7) forms
+- **Delete Post Attachments WordPress**: A WordPress function to automatically delete all attachments and featured image when a post is permanently deleted.
+- **CTA After Blog Post**: A function that add a Call to Action (CTA) section after a blog post. It allows to promote a specific page or action to your readers by displaying a well-designed CTA container with a title, description, and a prominent button. 
+- **WooCommerce - Hide Products per User Individually**: a plugin that allow admin to customize product visibility on a per-user basis. 
+  
 Feel free to explore and provide feedback or collaborate on any of these projects. Your contributions are highly appreciated! 🙌
 
 ## Get in Touch
