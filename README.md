@@ -20,7 +20,7 @@ Here are some of the projects you'll find in this repository:
 - **Regioni Province Comuni for CF7 WordPress Plugin**: A function that allows you to seamlessly integrate dynamic selection of Italian regions, provinces, and comuni into your Contact Form 7 (CF7) forms
 - **Delete Post Attachments WordPress**: A WordPress function to automatically delete all attachments and featured image when a post is permanently deleted.
 - **CTA After Blog Post**: A function that add a Call to Action (CTA) section after a blog post. It allows to promote a specific page or action to your readers by displaying a well-designed CTA container with a title, description, and a prominent button. 
-- **WooCommerce - Hide Products per User Individually**: a plugin that allow admin to customize product visibility on a per-user basis. 
+- **WooCommerce Hide Products per User Individually**: a plugin that allow admin to customize product visibility on a per-user basis. 
   
 Feel free to explore and provide feedback or collaborate on any of these projects. Your contributions are highly appreciated! 🙌
 
