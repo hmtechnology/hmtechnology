@@ -2,7 +2,7 @@
 
 ![Profile Image](https://avatars.githubusercontent.com/u/12564824?s=48&v=4)
 
-I'm hmtechnology, a passionate Web Developer with a deep love for technology and open-source collaboration. This repository serves as a window into my world and showcases some of my work and projects. 🚀
+I'm hmtechnology, founder of {e}volutiv³ and thunderspace, a passionate Web Developer with a deep love for technology and open-source collaboration. This repository serves as a window into my world and showcases some of my work and projects. 🚀
 
 ## About Me
 
